@@ -34,9 +34,13 @@ It’s not meant to be a full game, just a personal experiment to understand how
 2. Unzip the file.
 3. Run `FlappyBirb.exe` (or the equivalent for your OS).
 
-👉 [Download the latest version here!](https://github.com/yamakyusuf4/Flabby-Birb/releases)
-
 
 ---
 
-## 📂 Repository Structure
+## 🧠 Lessons Learned
+
+- How to handle **2D physics** in Unity  
+- Using **prefabs** for obstacles  
+- Managing **game states** (start, play, game over)  
+- Basic **UI and scorekeeping**
+
