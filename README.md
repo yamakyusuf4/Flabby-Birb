@@ -34,6 +34,9 @@ It’s not meant to be a full game, just a personal experiment to understand how
 2. Unzip the file.
 3. Run `FlappyBirb.exe` (or the equivalent for your OS).
 
+   Or 👉 [Download the latest version here!](https://github.com/yamakyusuf4/Flappy-Birb/releases/latest)
+
+
 ---
 
 ## 📂 Repository Structure
